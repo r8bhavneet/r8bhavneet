@@ -6,7 +6,7 @@
 
 ---
 ## 🧠 Professional Summary
-IT Support & Systems professional with a CS degree from Simon Fraser University and hands-on experience across **Windows, macOS, and Linux** environments. Currently preparing for the **CompTIA Security+** certification and actively building security-focused projects to complement my technical foundation.
+IT Support & Systems professional with a CS degree from Simon Fraser University and hands-on experience across **Windows, macOS, and Linux** environments. Currently hold a **CompTIA Security+** certification and actively building security-focused projects to complement my technical foundation.
 
 ---
 
