@@ -1,8 +1,8 @@
 # Hi, I'm Bhavneet 👋
-### Aspiring SOC Analyst | CS Graduate
+### Aspiring IT Technician | CS Graduate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bhavneet-singh-rajpal-8775b2301)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bsr1@sfu.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bhavneetsrajpal)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bhavsiinghr@gmail.com)
 
 ---
 ## 🧠 Professional Summary
